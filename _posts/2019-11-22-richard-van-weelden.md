@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Richard Van Weelden - Econ (Pittsburgh)
+title: Richard Van Weelden - University of Pittsburgh Economics
 order: 10
 ---
 

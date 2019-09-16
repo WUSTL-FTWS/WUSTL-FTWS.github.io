@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mat Knudson - Econ (Vanderbilt)
+title: Mat Knudson - Vanderbilt Economics
 order: 6
 ---
 
