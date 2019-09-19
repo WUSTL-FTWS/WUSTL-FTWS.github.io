@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \"Brokers and Parties in a Clientelist Web: Defection or Cooperation?\" Jeremy Siow (WUSTL Political Science)
+title: \"Brokers and Parties in a Clientelist Web%3A Defection or Cooperation?\" Jeremy Siow (WUSTL Political Science)
 order: 2
 ---
 
