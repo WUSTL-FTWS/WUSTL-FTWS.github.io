@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brokers and Parties in a Clientelist Web" Jeremy Siow (WUSTL Political Science)
+title: Brokers and Parties in a Clientelist Web - Jeremy Siow (WUSTL Political Science)
 order: 2
 ---
 
