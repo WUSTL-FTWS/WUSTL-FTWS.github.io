@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Brokers and Parties in a Clientelist Web: Defection or Cooperation?" Jeremy Siow (WUSTL Political Science)
+title: \"Brokers and Parties in a Clientelist Web: Defection or Cooperation?\" Jeremy Siow (WUSTL Political Science)
 order: 2
 ---
 
 
 Jeremy Siow is a second year PhD student in Political Science at Washington University in St. Louis.
 
-Jeremy will present his paper, "Brokers and Parties in a Clientelist Web: Defection or Cooperation?", which you can find [here](https://www.dropbox.com/s/cjq2puzvdcee0ij/Paper.Jeremy.Siow.pdf?dl=0).
+Jeremy will present his paper, \"Brokers and Parties in a Clientelist Web: Defection or Cooperation?\", which you can find [here](https://www.dropbox.com/s/cjq2puzvdcee0ij/Paper.Jeremy.Siow.pdf?dl=0).
 
 **Abstract**
 
