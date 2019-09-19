@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benjamin Noble - WUSTL Political Science
+title: Benjamin Noble (WUSTL Political Science)
 order: 4
 ---
 

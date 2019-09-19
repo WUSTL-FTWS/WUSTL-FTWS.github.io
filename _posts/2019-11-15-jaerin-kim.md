@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jaerin Kim - WUSTL Political Science
+title: Jaerin Kim (WUSTL Political Science)
 order: 9
 ---
 

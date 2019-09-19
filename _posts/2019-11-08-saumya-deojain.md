@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saumya Deojain - WUSTL Economics
+title: Saumya Deojain (WUSTL Economics)
 order: 8
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JBrandon Duck-Mayr - WUSTL Political Science
+title: JBrandon Duck-Mayr (WUSTL Political Science)
 order: 3
 ---
 

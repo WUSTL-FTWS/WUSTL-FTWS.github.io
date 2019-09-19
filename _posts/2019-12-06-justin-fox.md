@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Justin Fox - WUSTL Political Science
+title: Justin Fox (WUSTL Political Science)
 order: 11
 ---
 

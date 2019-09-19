@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benjamin Schneider - WUSTL Political Science
+title: Benjamin Schneider (WUSTL Political Science)
 order: 7
 ---
 
