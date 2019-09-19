@@ -6,6 +6,7 @@ order: 2
 
 
 Jeremy Siow is a second year PhD student in Political Science at Washington University in St. Louis.
+Jeremy's research interests are in distributive politics, clientelism, patronage, and Southeast Asian politics.
 
 Jeremy will present his paper, "Brokers and Parties in a Clientelist Web: Defection or Cooperation?", which you can find [here](https://www.dropbox.com/s/cjq2puzvdcee0ij/Paper.Jeremy.Siow.pdf?dl=0).
 
