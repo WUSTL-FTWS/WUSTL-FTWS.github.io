@@ -2,6 +2,7 @@
 layout: post
 title: JBrandon Duck-Mayr (WUSTL Political Science)
 order: 3
+past: true
 ---
 
 
