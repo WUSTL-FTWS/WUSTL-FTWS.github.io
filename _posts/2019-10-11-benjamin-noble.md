@@ -6,7 +6,8 @@ order: 4
 
 
 Benjamin Noble is a second year PhD student in Political Science at Washington University in St. Louis.
-He will be presenting his paper, "Energy Versus Safety: Unilateral Action, Signaling, and Executive Accountability."
+He will be presenting his paper, "Energy Versus Safety: Unilateral Action, Signaling, and Executive Accountability," which you can find [here](https://www.dropbox.com/s/25s16n2m3kl6xlr/Energy_Safety_v3.pdf?dl=0).
+
 
 **Abstract**
 
