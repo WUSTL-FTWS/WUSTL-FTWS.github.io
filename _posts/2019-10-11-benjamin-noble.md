@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benjamin Noble (WUSTL Political Science)
+title: Unilateral Action, Signaling, and Executive Accountability - Benjamin Noble (WUSTL Political Science)
 order: 4
 past: true
 ---

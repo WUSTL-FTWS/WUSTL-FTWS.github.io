@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JBrandon Duck-Mayr (WUSTL Political Science)
+title: Estimating Judges' Preferred Rules in a Case Space - JBrandon Duck-Mayr (WUSTL Political Science)
 order: 3
 past: true
 ---
