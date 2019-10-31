@@ -2,6 +2,7 @@
 layout: post
 title: Uncertain Policy Implementation with Public Information - Mat Knudson (Vanderbilt Economics)
 order: 6
+past: true
 ---
 
 
