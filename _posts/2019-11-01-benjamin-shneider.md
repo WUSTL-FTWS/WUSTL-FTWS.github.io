@@ -2,6 +2,7 @@
 layout: post
 title: Candidate Positioning Under Different Majoritarian Systems - Benjamin Schneider (WUSTL Political Science)
 order: 7
+past: true
 ---
 
 
