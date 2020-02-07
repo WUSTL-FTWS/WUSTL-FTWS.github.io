@@ -2,6 +2,7 @@
 layout: post
 title: The effect of diversity on special interest group coalitions - Saumya Deojain (WUSTL Economics)
 order: 8
+past: true
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: Justin Fox (WUSTL Political Science)
 order: 11
+past: true
 ---
 
 
