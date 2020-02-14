@@ -20,5 +20,4 @@ Then, an election is held and the voter may independently reelect or replace her
 I find that unilateral action creates conditions for costly signaling, allowing the executive to reveal both his own and the legislature's type.
 I characterize broad conditions under which increasing executive power enables voters to select more congruent representatives and achieve higher welfare—despite the downstream risks of adverse policy implementation.
 
-<a href="WUSTL-FTWS.github.io/papers/Energy_Safety_v4.pdf" target="_blank">Paper available here (opens in new tab)</a>
-
+[Paper available here (opens in new tab)]({{ site.baseurl }}/papers/Energy_Safety_v4.pdf){:target="_blank"}
